@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap');
+
+/* menerapkan modular css agar bisa di maintenance lebih mudah */
+@import url('./components/navbar.css');
+@import url('./components/profile.css');
+
+/* css untuk mereset style bawaan  */
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #16161a;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
