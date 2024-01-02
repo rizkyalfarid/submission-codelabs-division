@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-WEB PORTOFOLIO RIZKY AL FARID HAFIZH 
-  
-=======
 # Proyek Submission Codelabs Division
 
 Selamat datang di Proyek Submission Codelabs Division! Proyek ini merupakan bagian dari serangkaian tugas dan pembelajaran di Codelabs Division.
