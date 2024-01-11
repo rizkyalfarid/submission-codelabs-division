@@ -4,6 +4,7 @@
 @import url('./components/footer.css');
 @import url('./components/favorite.css');
 @import url('./components/recent.css');
+@import url('./components/cardquote.css');
 
 * {
   margin: 0;
@@ -19,4 +20,5 @@ body {
 .container {
   width: 100%;
   margin: auto;
+  font-family: 'Poppins', sans-serif;
 }
