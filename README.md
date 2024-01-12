@@ -4,7 +4,7 @@ Selamat datang di Proyek Submission Codelabs Division! Proyek ini merupakan bagi
 
 ## Deskripsi Proyek
 
-Projek ini merupakan Projek Website Personal/Portolio yang di dalamnya terdapat informasi mengenai data diri, skill (kemampuan), dan hasil karya atau hasil kerja saya sendiri. Website ini sudah menerapkan Responsive Layout walaupun hanya di terapkan pada layar lebar Mobile saja.
+Projek ini merupakan Projek Website Personal/Portofolio yang di dalamnya terdapat informasi mengenai data diri, skill (kemampuan), dan hasil karya atau hasil kerja saya sendiri. Website ini sudah menerapkan Responsive Layout walaupun hanya di terapkan pada layar lebar Mobile saja.
 
 **fyi :** Website ini sudah di deploy menggunakan fitur github-pages di repository yang berbeda untuk dapat melihat hasil Web nya bisa di akses disini [Link Website Portofolio](https://rizkyalfarid.github.io) atau bisa akses melalui url : rizkyalfarid.github.io
 
