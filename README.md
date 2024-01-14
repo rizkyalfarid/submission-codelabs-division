@@ -14,7 +14,41 @@ Projek ini merupakan Projek Website Personal/Portofolio yang di dalamnya terdapa
 - Teknologi 2: CSS (*Cascading Style Sheet*)
 - Teknologi 3: JS (*Javascript*)
 
-Tools Pendukung yang digunakan : [Google fonts](https://fonts.google.com), [Animate On Scroll](https://michalsnik.github.io/aos), [Happyhues](https://www.happyhues.co/)
+Tools Pendukung yang digunakan : [Google fonts](https://fonts.google.com), [Animate On Scroll](https://michalsnik.github.io/aos), [Happyhues](https://www.happyhues.co/).
+
+## Struktur Folder 
+
+📦CODELABS-SUBMISSION
+
+ ┣ 📂public
+ 
+ ┃ ┣ 📂certificate
+ 
+ ┃ ┃ ┣ 📜fe-expert.jpeg
+ 
+ ┃ ┃ ┗ 📜fundamental fe.jpg
+ 
+ ┃ ┣ 📂cv
+  
+ ┃ ┣ 📂img
+ 
+ ┃ ┃ ┣ 📂projects
+
+ ┃ ┗ 📂quoteImage
+
+ ┣ 📂scripts
+ 
+ ┃ ┣ 📂components
+ 
+ ┃ ┣ 📂utils
+ 
+ ┣ 📂style
+ 
+ ┃ ┣ 📂components
+
+ ┣ 📜index.html
+ 
+ ┗ 📜README.md
 
 
 
