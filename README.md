@@ -24,10 +24,6 @@ Tools Pendukung yang digunakan : [Google fonts](https://fonts.google.com), [Anim
  
  ┃ ┣ 📂certificate
  
- ┃ ┃ ┣ 📜fe-expert.jpeg
- 
- ┃ ┃ ┗ 📜fundamental fe.jpg
- 
  ┃ ┣ 📂cv
   
  ┃ ┣ 📂img
