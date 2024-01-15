@@ -20,7 +20,7 @@
 }
 
 .cardquote__header {
-  background-color: #3da9fc;
+  background-image: linear-gradient(to bottom, #3da9fc,#094067);
 }
 
 .cardquote__header img {
